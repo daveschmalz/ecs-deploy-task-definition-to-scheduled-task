@@ -31,21 +31,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airfordable/ecs-deploy-task-definition-to-scheduled-task.git"
+    "url": "git+https://github.com/daveschmalz/ecs-deploy-task-definition-to-scheduled-task.git"
   },
   "keywords": [
     "AWS",
     "Actions",
-    "Airfordable",
     "GitHub",
     "JavaScript"
   ],
   "author": "Aifordable, AWS",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airfordable/ecs-deploy-task-definition-to-scheduled-task/issues"
+    "url": "https://github.com/daveschmalz/ecs-deploy-task-definition-to-scheduled-task/issues"
   },
-  "homepage": "https://github.com/airfordable/ecs-deploy-task-definition-to-scheduled-task#readme",
+  "homepage": "https://github.com/daveschmalz/ecs-deploy-task-definition-to-scheduled-task#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
     "aws-sdk": "^2.1203.0",
