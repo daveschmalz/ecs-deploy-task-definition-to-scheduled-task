@@ -12,6 +12,7 @@ const IGNORED_TASK_DEFINITION_ATTRIBUTES = [
   'requiresAttributes',
   'revision',
   'status',
+  'runtimePlatform'
 ];
 
 function isEmptyValue(value) {
